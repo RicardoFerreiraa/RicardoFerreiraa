@@ -17,4 +17,4 @@
 
 ##
 
-![snake animation](https://github.com/ricardoferreiraa/ricardoferreiraa/blob/output/github-contribuition-grid-snake.svg)
+![snake gif](https://github.com/ricardoferreiraa/ricardoferreiraa/blob/output/github-contribution-grid-snake.svg)
