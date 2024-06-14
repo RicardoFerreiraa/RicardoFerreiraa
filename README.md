@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Eu sou Ricardo
 
-<!--
-**RicardoFerreiraa/RicardoFerreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <a href = https://github.com/RicardoFerreiraa >
+  <img heigth ="100em" src="https://github-readme-stats.vercel.app/api?username=ricardoferreiraa&show_icons=true&theme=tokyonight"/>
+  
+   <img heigth ="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoferreiraa&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.facebook.com/ricardo.ferreira.5437923/"  target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"target="_blank"></a>
+<a href="https://www.instagram.com/ferreira.ricks/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+<a href="https://www.facebook.com/ricardo.ferreira.5437923/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+</div>
+
+##
+
+![snake animation](https://github.com/ricardoferreiraa/ricardoferreiraa/blob/output/github-contribuition-grid-snake.svg)
