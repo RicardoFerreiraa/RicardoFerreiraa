@@ -1,4 +1,4 @@
-## Olá! Eu sou Ricardo
+## 
 
 <div>
  <a href = https://github.com/RicardoFerreiraa >
